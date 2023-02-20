@@ -5,5 +5,9 @@ theme:
   name: material
 plugins:
   - search
-
+  - mkdocstrings:
+    watch:
+      - code
+nav:
+  - Home: Home/index.md
 
