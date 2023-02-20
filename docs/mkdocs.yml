@@ -1,4 +1,5 @@
 site_name: My Docs
+site_url: https://gchristodo.github.io/Documentation_Test/
 theme:
   name: 'material'
 plugins:
