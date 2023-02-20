@@ -1,7 +1,9 @@
 site_name: My Docs
-site_url: https://gchristodo.github.io/Documentation_Test/
+repo_url: https://github.com/gchristodo/Documentation_Test
+site_url: https://gchristodo.github.io/Documentation_Test
 theme:
-  name: 'material'
+  name: material
 plugins:
   - search
+
 
